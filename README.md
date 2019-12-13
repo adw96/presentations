@@ -1,6 +1,6 @@
 # presentations
 
-This repository contains an inexhaustive compilation of slides from presentations I've given. I give presentations to statisticians, mathematicians, microbiologists, clinical medicine practitioners, and epidemiologists, amongst other groups.
+This repository contains an inexhaustive compilation of slides from presentations I've given. I give presentations to  microbial ecologists, statisticians, mathematicians, microbiologists, clinical medicine practitioners, and epidemiologists, amongst other groups.
 
 Disclaimer: Slides may be meaningless without context and commentary. Jokes are not clearly labelled, and motivation/background are normally spoken rather than written. I also occasionally use humour, which may be misinterpreted as sarcasm. Please request clarification if you need it.
 
